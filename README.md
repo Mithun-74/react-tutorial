@@ -34,7 +34,7 @@ This repository contains my journey of learning React.js from scratch to advance
 
 All code from daily learning tasks is also available in a formatted PDF for download and reference:
 
-📥 [Download Full Code PDF](./React-Learning-Journey.pdf)
+📥 [Download Full Code PDF](https://github.com/user-attachments/files/21599240/React.tutorial.pdf)
 
 ---
 
